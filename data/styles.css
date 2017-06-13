@@ -83,10 +83,20 @@
 .html_button {
   text-align:center;
 }
+.tree_node {
+  text-align:left;
+}
 .table_cell {
+}
+._连接线 {
+}
+.marker {
+  color:#FFFFFF;
 }
 ._形状 {
 }
 .radio_button {
   text-align:left;
+}
+.flow_shape {
 }

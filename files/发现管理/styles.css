@@ -3,7 +3,7 @@
   background-image:none;
   position:static;
   left:auto;
-  width:1920px;
+  width:10px;
   margin-left:0;
   margin-right:0;
   text-align:left;
@@ -11,64 +11,4 @@
 #base {
   position:absolute;
   z-index:0;
-}
-#u138_img {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:1920px;
-  height:932px;
-}
-#u138 {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:1920px;
-  height:932px;
-}
-#u139 {
-  border-width:0px;
-  position:absolute;
-  left:2px;
-  top:458px;
-  width:1916px;
-  visibility:hidden;
-  word-wrap:break-word;
-}
-#u140_div {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:1740px;
-  height:819px;
-  background:inherit;
-  background-color:rgba(255, 255, 255, 1);
-  box-sizing:border-box;
-  border-width:1px;
-  border-style:solid;
-  border-color:rgba(121, 121, 121, 1);
-  border-radius:0px;
-  -moz-box-shadow:none;
-  -webkit-box-shadow:none;
-  box-shadow:none;
-}
-#u140 {
-  border-width:0px;
-  position:absolute;
-  left:180px;
-  top:113px;
-  width:1740px;
-  height:819px;
-}
-#u141 {
-  border-width:0px;
-  position:absolute;
-  left:2px;
-  top:402px;
-  width:1736px;
-  visibility:hidden;
-  word-wrap:break-word;
 }
